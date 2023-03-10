@@ -11,4 +11,4 @@
 4. The project would be up and running by command `uvicorn main:app --reload`.
 
 
- Else you can refer to this link to run the APIs: https://employee-info-fastapi.herokuapp.com/docs
+ Else you can refer to this link to run and test the APIs: https://web-production-affd.up.railway.app/docs
