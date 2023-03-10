@@ -2,7 +2,7 @@
 - This application APIs build using FastAPI. In this application, data of employees with details can be fetched, updated, created and deleted using different request methods (GET, POST, PATCH, DELETE) in the MongoDB server. 
 - Different sections of project involved - creating models (which is defining database structure of MongoDB), routes (creating routing URLS), configuration (connecting application to MongoDB server) & defining schemas (i.e to convert data to simplest form to be understood in frontend).
 
-## [API Collection Demo]
+## API Collection Demo
 
 ### Steps to setup and start the project locally:
 1. Fork and clone the repository
